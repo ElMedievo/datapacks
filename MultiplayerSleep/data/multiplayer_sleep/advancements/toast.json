@@ -1,0 +1,17 @@
+{
+  "display":{
+    "icon":{
+      "item":"minecraft:red_bed"
+    },
+    "title": "Somebody wants to sleep",
+    "description":"Zzz... zzz...",
+    "show_toast": true,
+    "announce_to_chat":false
+  },
+  "parent":"multiplayer_sleep:sleep",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

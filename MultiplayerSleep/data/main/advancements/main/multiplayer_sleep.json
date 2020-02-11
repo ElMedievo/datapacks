@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_bed"
+    },
+    "title": {
+      "text": "Sleep in multi-player",
+      "color": "white",
+      "bold": false,
+      "italic": false
+    },
+    "description": {
+      "text": "Allows one player to sleep for everybody else.",
+      "color": "green",
+      "bold": false,
+      "italic": true
+    },
+    "show_toast": false,
+    "announce_to_chat": false,
+    "frame": "goal"
+  },
+  "parent": "main:main/root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
