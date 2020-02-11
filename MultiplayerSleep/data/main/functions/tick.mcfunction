@@ -1,4 +1,4 @@
-# Desc: Controls all function to run on the server. Make funtions run much less
+# Controls all function to run on the server. Make funtions run much less
 #
 # Called by: #minecraft:tick
 

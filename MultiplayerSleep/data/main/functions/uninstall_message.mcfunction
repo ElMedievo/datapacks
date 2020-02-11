@@ -1,4 +1,4 @@
-# Desc: Main uninstall message. Will only be displayed once.
+# Main uninstall message. Will only be displayed once.
 #
 # Called by: #main:uninstall
 
