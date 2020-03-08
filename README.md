@@ -1,8 +1,4 @@
-# datapacks [![GitHub license](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/MassSMP/datapacks/blob/master/LICENCE.md)
-
-## Datapacks used by the MassSMP Minecraft server
-
-All datapacks used by the server to enhance gameplay.
+# datapacks [![GitHub license](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/BGMP/datapacks/blob/master/LICENCE.md)
 
 ## Usage
 
