@@ -28,11 +28,12 @@
       "minecraft:lake_water",
       "minecraft:lake_lava"
     ],
-    [],
+    [
+      "minecraft:amethyst_geode"
+    ],
     [
       "minecraft:prototype_fossil_upper",
       "minecraft:prototype_fossil_lower",
-      "minecraft:amethyst_geode",
       "minecraft:monster_room"
     ],
     [],
